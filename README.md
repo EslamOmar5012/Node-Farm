@@ -1,6 +1,6 @@
 # 🌾 Node-Farm - A Pure Node.js Learning Project  
 **A minimalist farm product website built entirely with core Node.js** to demonstrate fundamental backend concepts without any frameworks.  
-![Node.js](https://img.shields.io/badge/Node.js-18.x-green) ![License](https://img.shields.io/badge/License-MIT-blue)  
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green)  
 
 ## 🚀 Key Features  
 - **Pure Node.js Implementation** - No Express or other frameworks  
